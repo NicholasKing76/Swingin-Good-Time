@@ -331,6 +331,14 @@ public class MovementPlayer : MonoBehaviour
                 }
                 
             }
+            else if (scene.name == "Level 3")
+            {
+                if (timer < PlayerPrefs.GetFloat("Level3Score"))
+                {
+                    PlayerPrefs.SetFloat("Level3Score", timer);
+                }
+
+            }
             PlayerPrefs.GetString("Time", text.text);
             Cursor.lockState = CursorLockMode.Confined;
             Cursor.visible = true;
