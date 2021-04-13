@@ -8,7 +8,7 @@ When you download the files from github, unzip it. Use Unity Hub to open the fil
 
 ## Activity Flow Chart
 
-This is a PDF of the activity flow chart that is meant to show how the project works as you play through the game. [Capstone Activity Diagram](https://github.com/NicholasKing76/Swingin-Good-Time/files/6305773/Capstone.Activity.Diagram.pdf)![Capstone Activity Diagram](https://user-images.githubusercontent.com/54336920/114599957-68405100-9c59-11eb-872c-befcbd8c8801.jpeg)
+This is a PDF of the activity flow chart that is meant to show how the project works as you play through the game. [Capstone Activity Diagram](https://github.com/NicholasKing76/Swingin-Good-Time/files/6305773/Capstone.Activity.Diagram.pdf) You can download it here or you can view it below.![Capstone Activity Diagram](https://user-images.githubusercontent.com/54336920/114599957-68405100-9c59-11eb-872c-befcbd8c8801.jpeg)
 
 ## Navigation
 
