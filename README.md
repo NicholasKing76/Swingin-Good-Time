@@ -15,7 +15,13 @@ This is a PDF of the activity flow chart that is meant to show how the project w
 ### Title Screen 
 
 When the game starts you will be taken to the title screen where you can click anywhere and you will be taken to the main menu. 
+
+### Main Menu
+
 Then you will have three options: quit game, how to play, and play game. Clicking quit game will close the application, clicking how to play will take you to a screen that shows the basic controls and tells you what the objective is, and play game will take you to the level select screen. 
+
+### Level Select Screen
+
 On the level select screen the player can pick from any of three levels. They also have an option to reset the times on the levels if they wish to and they can return to the main menu.
 
 ## Liscense
