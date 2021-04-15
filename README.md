@@ -24,6 +24,14 @@ Then you will have three options: quit game, how to play, and play game. Clickin
 
 On the level select screen the player can pick from any of three levels. They also have an option to reset the times on the levels if they wish to and they can return to the main menu.
 
+### How to Play Screen
+
+This is the screen with the controls displayed for the player and it tells the player the objective. There is a button to go back to the main menu of the game.
+
+## Gameplay
+
+https://user-images.githubusercontent.com/54336920/114916240-314d7500-9dea-11eb-9467-1a1d1b4150be.mp4
+
 ## Liscense
 
 MIT
