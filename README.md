@@ -4,15 +4,15 @@ This is a game about getting to the end of level in the shortest amount of time 
 
 ## Table of Contents
 
-a. Installation Instructions
+1. Installation Instructions
 
-b. Activity Flow Chart
+2. Activity Flow Chart
 
-c. Usage Instructions
+3. Usage Instructions
 
-d. Gameplay
+4. Gameplay
 
-e. Liscense
+5. Liscense
 
 ## Installation Instructions
  
