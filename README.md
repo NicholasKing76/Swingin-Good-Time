@@ -63,7 +63,7 @@ These are some things I wanted to ensure my game had before it was finished:
 
 ## Test Plan Excel Sheet
 
-[TestPlan.xlsx](https://github.com/NicholasKing76/Swingin-Good-Time/files/6346450/TestPlan.xlsx)
+[Test Plan for the Capstone](https://github.com/NicholasKing76/Swingin-Good-Time/files/6346450/TestPlan.xlsx)
 
 ## Gameplay
 
