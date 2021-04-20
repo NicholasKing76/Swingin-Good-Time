@@ -4,7 +4,7 @@ This is a game about getting to the end of level in the shortest amount of time 
 
 ## Table of Contents
 
-a. Installationo Instructions
+a. Installation Instructions
 
 b. Activity Flow Chart
 
