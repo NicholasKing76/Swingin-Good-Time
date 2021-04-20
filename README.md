@@ -10,9 +10,13 @@ This is a game about getting to the end of level in the shortest amount of time 
 
 3. Usage Instructions
 
-4. Gameplay
+4. Requirement Analysis
 
-5. Liscense
+5. Gameplay
+
+6. Test Plan Excel Sheet
+
+7. Liscense
 
 ## Installation Instructions
  
@@ -39,6 +43,27 @@ On the level select screen the player can pick from any of three levels. They al
 ### How to Play Screen
 
 This is the screen with the controls displayed for the player and it tells the player the objective. There is a button to go back to the main menu of the game.
+
+## Requirement Analysis
+
+I have been playing games for a vast majority of my life. Throughout my time playing video games, I have always appreciated games that have made moving through the game fun to do. As opposed to a way to get from point A to point B. This is primary the reason I made this game.
+
+These are some things I wanted to ensure my game had before it was finished:
+
+1. Must have a grappling hook that uses momentum to throw the player through the level
+2. Must have a working timer.
+3. Must have a "How to Play" screen for new players.
+4. Must have music play so the game is not audibley boring.
+5. The best time must be displayed on the level select screen and replace the old time.
+6. Must have an object in the game that the player must avoid.
+7. Have an object that signifies hte end of the level.
+8. Have a title screen.
+9. Have sound effects for objects to make them feel better as part of the level.
+10. Have at least 3 levels.
+
+## Test Plan Excel Sheet
+
+[TestPlan.xlsx](https://github.com/NicholasKing76/Swingin-Good-Time/files/6346450/TestPlan.xlsx)
 
 ## Gameplay
 
