@@ -1,4 +1,3 @@
-![TestPlan](https://user-images.githubusercontent.com/54336920/115762142-c1e70080-a368-11eb-868a-99a39e2d82f8.png)
 # Swingin--Good-Time
  
 This is a game about getting to the end of level in the shortest amount of time without touching the lava.
