@@ -76,16 +76,16 @@ https://user-images.githubusercontent.com/54336920/114916240-314d7500-9dea-11eb-
 
 ## 7. In line Code
 
-public void PauseGame()
-{
-        Time.timeScale = 0f;
-        isPaused = !isPaused;
-        menu.SetActive(isPaused);
-        print("Game Paused");
-        Cursor.lockState = CursorLockMode.Confined;
-        GameObject.Find("Player").GetComponent<MovementPlayer>().enabled = false;
-        Cursor.visible = true;
-}
+        public void PauseGame()
+        {
+                Time.timeScale = 0f;
+                isPaused = !isPaused;
+                menu.SetActive(isPaused);
+                print("Game Paused");
+                Cursor.lockState = CursorLockMode.Confined;
+                GameObject.Find("Player").GetComponent<MovementPlayer>().enabled = false;
+                Cursor.visible = true;
+        }
  
 ## 8. Liscense
 
