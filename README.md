@@ -16,7 +16,7 @@ This is a game about getting to the end of level in the shortest amount of time 
 
 6. Test Plan Excel Sheet
 
-7. Inline Code
+7. In line Code
 
 8. Liscense
 
@@ -74,8 +74,10 @@ These are some things I wanted to ensure my game had before it was finished:
 
 https://user-images.githubusercontent.com/54336920/114916240-314d7500-9dea-11eb-9467-1a1d1b4150be.mp4
 
-## 7. Inline Code
+## 7. In line Code
 
+public void PauseGame()
+{
         Time.timeScale = 0f;
         isPaused = !isPaused;
         menu.SetActive(isPaused);
@@ -83,7 +85,8 @@ https://user-images.githubusercontent.com/54336920/114916240-314d7500-9dea-11eb-
         Cursor.lockState = CursorLockMode.Confined;
         GameObject.Find("Player").GetComponent<MovementPlayer>().enabled = false;
         Cursor.visible = true;
-
+}
+ 
 ## 8. Liscense
 
 MIT
